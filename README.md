@@ -1,2 +1,6 @@
-# CyberShield
-HI this is a new code
+# Anti-India Campaign Detector
+
+## How to Run
+
+```bash
+docker-compose up --build
