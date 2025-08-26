@@ -16,7 +16,7 @@ Follow these steps to get the application running locally.
 
 ### Step 1: Backend Setup
 
-#### Install Python Dependencies
+#### Install Python Dependencies(use virtual enviroment)
 ```bash
 cd backend
 pip install -r requirements.txt
